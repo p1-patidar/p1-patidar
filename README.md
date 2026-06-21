@@ -35,8 +35,3 @@ I build production AI products and real-time fintech systems end-to-end. Co-Foun
 **DevOps:** Vercel, Git, Sentry, Playwright/Vitest
 
 ---
-
-## 📊 GitHub Stats
-
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1-patidar&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1-patidar&layout=compact)
